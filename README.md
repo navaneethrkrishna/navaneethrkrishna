@@ -56,5 +56,5 @@
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
 </p>
 <p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
+<img width="50%" src="https://github.com/navaneethrkrishna"https://gpvc.arturio.dev/" alt="Profile views" />
 </p>
