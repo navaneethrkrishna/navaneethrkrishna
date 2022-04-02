@@ -56,4 +56,4 @@
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🧐
 </p>
 <p align="center">
-<img width="50%" src="https://github.com/navaneethrkrishna"https://gpvc.arturio.dev/" alt="Profile 
+<img width="50%" src="https://github.com/navaneethrkrishna"https://gpvc.arturio
